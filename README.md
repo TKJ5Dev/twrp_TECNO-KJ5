@@ -26,7 +26,7 @@ It was released in 2023, December
 | SIM                            | Nano-SIM + Nano-SIM   		                             |
 | MicroSD                        | Up to 1TB                                                         |
 | Battery                        | 5000mAh Li-Po (non-removable), 18W fast charge                    |
-| Dimensions                     | 168.6 x 76.3 x 8.2 mm (6.64 x 3.00 x 0.32 in)                     |
+| Dimensions                     | 163.7 x 75.6 x 8.5 mm (6.44 x 2.98 x 0.33 in)                     |
 | Display                        | 6.6", 720 x 1612 pixels, IPS LCD, 90Hz (~267 ppi density)         |
 | Rear Camera                    | 50 MP, f/1.6, (wide), 0.64µm, PDAF                                |
 | Front Camera                   | 32 MP, f/2.2, (wide)                                              |
