@@ -84,7 +84,7 @@ TARGET_USERIMAGES_USE_F2FS := true
 # Workaround for error copying vendor, product files to recovery ramdisk
 TARGET_COPY_OUT_VENDOR := vendor
 TARGET_COPY_OUT_PRODUCT := product
-# TARGET_COPY_OUT_SYSTEM_EXT := system_ext
+TARGET_COPY_OUT_SYSTEM_EXT := system_ext
 
 # Dynamic Partition
 BOARD_SUPER_PARTITION_SIZE := 0x201000000
